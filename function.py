@@ -1,3 +1,5 @@
+"""Functions"""
+
 def connect(x):
 
     call()
@@ -6,7 +8,7 @@ def connect(x):
     return x
 
 def call ():
-	print "call method"
+	print "call method is called"
 
 def message ():
 	print "message"
@@ -30,7 +32,7 @@ def fact(n):
 print fact(5)
 
 
-
+"""List to dictionary"""
 
 #10*20
 #20-30
